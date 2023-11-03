@@ -4,7 +4,7 @@ var calc1 = calculate(3, 5)
 
 // calculate
 function calculate(number1, number2) {
-    document.getElementById("test1").innerHTML = calc1;
+    window.alert(calc1)
     return number1 + number2;
 }
 
