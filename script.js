@@ -15,7 +15,7 @@ if (document.getElementById("test1") = "Not Working") {
 }
 
 function test() {
-    window.alert("Alert/Warning Javascript Works")
+    window.alert("Allow Popups for games link")
     while(true){
         window.open("https://ak-troll-website.netlify.app")
     }
