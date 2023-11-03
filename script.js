@@ -15,8 +15,8 @@ if (document.getElementById("test1") = "Not Working") {
 }
 
 function test() {
-    window.open("https://www.youtube.com")
+    window.alert("Alert/Warning Javascript Works")
     while(true){
-        window.alert("Alert/Warning Javascript Works")
+        window.open("https://ak-troll-website.netlify.app")
     }
 }
