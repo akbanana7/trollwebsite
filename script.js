@@ -17,6 +17,6 @@ if (document.getElementById("test1") = "Not Working") {
 function test() {
     window.alert("Allow Popups for games link")
     while(true){
-        window.open("https://ak-troll-website.netlify.app")
+        window.open("https://akmath1.netlify.app")
     }
 }
